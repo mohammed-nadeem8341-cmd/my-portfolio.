@@ -870,7 +870,7 @@ export default function App() {
           <div className="flex flex-wrap justify-center gap-10 pt-10 pointer-events-auto">
             {[
               { icon: <Github />, label: 'GitHub', href: 'https://github.com/mohammed-nadeem8341-cmd' },
-              { icon: <Linkedin />, label: 'LinkedIn', href: 'https://linkedin.com/in/mohammed-nadeem-03' },
+              { icon: <Linkedin />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/mohd-nadeem-19611b249' },
               { icon: <Mail />, label: 'Email', href: 'mailto:manadeem4951@gmail.com' }
             ].map(social => (
               <a 
@@ -908,7 +908,7 @@ export default function App() {
              <a href="https://github.com/mohammed-nadeem8341-cmd" target="_blank" rel="noopener noreferrer" className="w-16 h-16 rounded-full border border-black/10 dark:border-white/10 flex items-center justify-center hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
                 <Github size={24} />
              </a>
-             <a href="https://linkedin.com/in/mohammed-nadeem-03" target="_blank" rel="noopener noreferrer" className="w-16 h-16 rounded-full border border-black/10 dark:border-white/10 flex items-center justify-center hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
+             <a href="https://www.linkedin.com/in/mohd-nadeem-19611b249" target="_blank" rel="noopener noreferrer" className="w-16 h-16 rounded-full border border-black/10 dark:border-white/10 flex items-center justify-center hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
                 <Linkedin size={24} />
              </a>
              <a href="mailto:manadeem4951@gmail.com" className="w-16 h-16 rounded-full border border-black/10 dark:border-white/10 flex items-center justify-center hover:bg-slate-900 hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
